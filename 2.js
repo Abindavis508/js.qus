@@ -1,3 +1,3 @@
-const abc=(a)=>a*2;
+const abc=(a)=>a*a;
 console.log(abc(5));
 
